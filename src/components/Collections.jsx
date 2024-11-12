@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { fetch_data } from '../api/collection'
-import Card from './card';
+import Card from './Card';
 
 function Collections() {
 
